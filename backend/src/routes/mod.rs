@@ -1,1 +1,2 @@
-// API route handlers
+pub mod auth;
+pub mod search;
